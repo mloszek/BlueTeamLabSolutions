@@ -20,5 +20,6 @@ Last file containing the date of the meet-up is hidden in one of the *.wav* file
 the password. For this purpose we can use the `stegseek` tool (big kudos to RickdeJager).
 
 After retrieving the file we have to decode it's contents to obtain the readable time. For this purpose we can utilize the CyberChef tool.
+Decoded date still need to be figured out; the following string should serve as an clue.
 
 And that's it!
